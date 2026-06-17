@@ -1,13 +1,16 @@
-# cybersecurity-notes
-My Cyber Security Learning Journey
-# Cyber Security Notes
+# Cyber Security Learning Journey
 
-Hi, I'm aatesh.
+Hi, I'm Aatesh.
 
-Currently Learning:
-- Networking
-- Linux
-- Python
+I am learning Cyber Security, Networking, Linux and Ethical Hacking from scratch.
 
-Goal:
-Become an Ethical Hacker and Bug Bounty Hunter.
+## Current Goals
+- Learn Networking Basics
+- Learn Linux Commands
+- Learn Git & GitHub
+- Learn Python Basics
+- Start Bug Bounty Hunting
+
+## Progress
+Day 1: GitHub Account Created ✅
+Day 2: Repository Created ✅
